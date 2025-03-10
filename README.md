@@ -1,16 +1,7 @@
-# React + Vite
+Atividade do dia 10/03/25 - Remulo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-# Necessary facilities
-  Npm install
-  <br>
-  npm install react-router-dom
-  <br>
-  npm install react-icons --save
+Uma atividade de portfólio, no qual usamos o React+Vite para criar um site com nosso portifólio e páginas com informações;
+Home: Informações básicas e uma breve apresentação
+Sobre mim: Informações sobre o proprietário desse portifólio
+Projetos: onde vão ser gravados os projetos que estão sendo realizados ou que já realizei
+Contatos: email, Instagram e GitHub do proprietário
